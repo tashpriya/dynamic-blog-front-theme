@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="<?php echo assets('/plugins/bootstrap/css/bootstrap.min.css'); ?>">
 
     <!-- FontAwesome -->
-    <script src="<?php echo assets('plugins/fontawesome/js/all.min.js'); ?>"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
 
     <!-- Fonts -->
     <link rel="stylesheet" href="<?php echo assets('/styles/fonts.css'); ?>">
